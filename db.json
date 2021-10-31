@@ -1,0 +1,26 @@
+{
+    "events": [
+      {
+        "id": 238473,
+        "category": "Fun",
+        "title": "James and Jens Housewarming Party",
+        "description": "Come celebrate with us at our new house. ",
+        "location": "1156 Sarah Freeman Dr, Centerville, OH",
+        "date": "11/20/2021",
+        "time": "6PM ET",
+        "petsAllowed": "Yes",
+        "organizer": "James and Jen"
+      },
+      {
+        "id": 238474,
+        "category": "Fun",
+        "title": "James and Jens Thanksgiving Day Parade",
+        "description": "Come celebrate with us at our new house. ",
+        "location": "1156 Sarah Freeman Dr, Centerville, OH",
+        "date": "11/20/2021",
+        "time": "2PM ET",
+        "petsAllowed": "No",
+        "organizer": "James and Jen"
+      }
+    ]
+  }
